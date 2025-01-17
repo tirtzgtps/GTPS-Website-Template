@@ -7,14 +7,14 @@
  -- CHANGE THE WEBSITE OPTION IN BELOW --
 */
 let option = {
-    server_name: "Your server name",
-    server_description: "Your server Description",
+    server_name: "GrowSilent",
+    server_description: "GrowSilent Is A Gtps Where That You you can do everything",
     owner: [
         "Owner Server#0000",
         "Owner Server#0000"
     ],
     discord_invite_link: "Your permanent discord invite link",
     ip_address: "Your server ip address",
-    host_for_android: "Your host link for android device"
+    host_for_android: "https://download.gtpshost.com/GrowSilentNew"
 }
 
